@@ -1,0 +1,20 @@
+.A {
+	text-align: right;
+}
+.B {
+	width: 100PX;
+	height: 100%;
+}
+.C {
+	background-color: #BAED0B;
+	font-family: times new roman;
+}
+/*Style JumboTrom*/
+.D {
+	background-color: #1FE4D5;
+	border:solid 20px #BC1FE4;
+	font-family: Algerian;
+}
+.E {
+	height: 100px;
+}
